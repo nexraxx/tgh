@@ -1,0 +1,27 @@
+{
+  "guilds": {
+    "1498703534340837526": {
+      "ticketCategory": "1498703536622670007",
+      "staffRole": "1498703534374256830",
+      "transcriptChannel": "1498703536425275536",
+      "counter": 1,
+      "tickets": [
+        {
+          "id": 1,
+          "channelId": "1499795261239722125",
+          "owner": "1273047106952626289"
+        }
+      ],
+      "permissionMode": "strict"
+    },
+    "1357785955481948210": {
+      "ticketCategory": "1496694085635936348",
+      "staffRole": "1483600044392317071",
+      "transcriptChannel": "1499597224689270924",
+      "counter": 0,
+      "tickets": [],
+      "permissionMode": "strict"
+    }
+  },
+  "blacklist": []
+}
